@@ -4,3 +4,4 @@ Doe, John, 11/10/2022, Ingénieur
 Depp, Johnny, 11/10/2022, Concierge
 Parker, Peter, 01/10/2022, Stagiaire
 Juliette, CEA
+Catherine Ingénieur projet
